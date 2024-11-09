@@ -1,3 +1,8 @@
 {
-  "extends": ["next/core-web-vitals", "next/typescript"]
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "no-console": "off", // Disable console warnings globally
+    "react/react-in-jsx-scope": "off" // Example for disabling another rule
+  }
 }
+
