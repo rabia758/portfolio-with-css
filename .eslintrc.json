@@ -2,7 +2,11 @@
   "extends": "next/core-web-vitals",
   "rules": {
     "no-console": "off", // Disable console warnings globally
+    "rule-name": "off", // Disable a rule
+    "no-unused-vars": "off",
+
     "react/react-in-jsx-scope": "off" // Example for disabling another rule
   }
+  
 }
 

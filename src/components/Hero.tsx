@@ -22,7 +22,7 @@ export default function Hero(){
               <p className="p">I am Learning Artificial Intelligence ,
                 Metaverse And web3.0 In Governour House Karachi.
                 .I have completed Command In nextjs, HTML, CSS, TypeScript, And  JavaScript.. </p>
-                <button className="btn">Hire Me</button>
+                <button type="submit" className="btn">Hire Me</button>
 
             </div>
 
