@@ -1,12 +1,8 @@
 {
-  "extends": "next/core-web-vitals",
+  "extends": "next",
   "rules": {
-    "no-console": "off", // Disable console warnings globally
-    "rule-name": "off", // Disable a rule
-    "no-unused-vars": "off",
-
-    "react/react-in-jsx-scope": "off" // Example for disabling another rule
+    "react/no-unescaped-entities": "off",
+    "@next/next/no-page-custom-font": "off"
   }
-  
 }
 
