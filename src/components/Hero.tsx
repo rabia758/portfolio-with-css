@@ -4,7 +4,7 @@ import { userinfo } from "@/constant/constant"
 
 export default function Hero(){
     return(
-        <section id="/" className="hero">
+        <section  className="hero">
             <div>
                 <Image
                   src={hero}
