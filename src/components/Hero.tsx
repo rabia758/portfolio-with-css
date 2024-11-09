@@ -18,7 +18,7 @@ export default function Hero(){
             </div>
             <div className="right">
               <h1 className="h1">Frontened Developer</h1>
-              <h1 className="h2"> Hi I'm <span>{userinfo.name}</span></h1>
+              <h1 className="h2"> Hi I am <span>{userinfo.name}</span></h1>
               <p className="p">I am Learning Artificial Intelligence ,
                 Metaverse And web3.0 In Governour House Karachi.
                 .I have completed Command In nextjs, HTML, CSS, TypeScript, And  JavaScript.. </p>
